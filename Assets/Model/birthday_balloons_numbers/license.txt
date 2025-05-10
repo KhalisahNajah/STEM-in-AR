@@ -1,0 +1,11 @@
+Model Information:
+* title:	Birthday Balloons numbers
+* source:	https://sketchfab.com/3d-models/birthday-balloons-numbers-16632cdfe1054f1bb2b4b9124417f093
+* author:	imaginibus (https://sketchfab.com/Iimaginibus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Birthday Balloons numbers" (https://sketchfab.com/3d-models/birthday-balloons-numbers-16632cdfe1054f1bb2b4b9124417f093) by imaginibus (https://sketchfab.com/Iimaginibus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

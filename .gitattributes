@@ -1,0 +1,4 @@
+* text=auto
+*.cs text
+*.shader text
+*.meta text
